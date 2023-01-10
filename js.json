@@ -1,0 +1,9 @@
+ test=`{ "name" : "Ankita Kumari",
+
+"age" : 22,
+"isStudent" : true,
+"courses" : ["INT","CSE","ECE"],
+"obj" : { "Car" : "TATA" ,
+"milege " : 22
+}
+}`;`
